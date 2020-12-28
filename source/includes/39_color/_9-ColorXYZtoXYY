@@ -1,0 +1,28 @@
+## ColorXYZtoXYY
+
+This function convert from XYZ color space to xyY.
+
+###### Available from 3.3.0.
+
+
+### Signature
+
+`function ColorXYZtoXYY(x, y, z)`
+
+
+### Parameters
+
+| Parameter | Description |
+| --- | --- |
+| num | Number representing x component of XYZ |
+| num | Number representing y component of XYZ |
+| num | Number representing z component of XYZ |
+
+
+### Returns
+
+| Parameter | Description |
+| --- | --- |
+| num | Number representing x component of xyY |
+| num | Number representing y component of xyY |
+| num | Number representing Y component of xyY |
