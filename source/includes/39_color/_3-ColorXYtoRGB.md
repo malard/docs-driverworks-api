@@ -1,22 +1,21 @@
-## ColorXYZtoRGB
+## ColorXYtoRGB
 
-This function convert from HSV color space to RGB.
+This function convert from xy color space to RGB.
 
 ###### Available from 3.3.0.
 
 
 ### Signature
 
-`function ColorXYZtoRGB(x, y, z, rgbScale)`
+`function ColorXYtoRGB(x, y, rgbScale)`
 
 
 ### Parameters
 
 | Parameter | Description |
 | --- | --- |
-| num | Number representing x component of XYZ |
-| num | Number representing y component of XYZ |
-| num | Number representing z component of XYZ |
+| num | Number representing x component of xy |
+| num | Number representing y component of xy |
 | num | Optional Number representing RGB scale (1 to 255), default value 255 |
 
 

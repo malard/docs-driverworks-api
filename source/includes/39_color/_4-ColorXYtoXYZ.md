@@ -1,22 +1,21 @@
-## ColorXYYtoXYZ
+## ColorXYtoXYZ
 
-This function convert from xyY color space to XYZ.
+This function convert from xy color space to XYZ.
 
 ###### Available from 3.3.0.
 
 
 ### Signature
 
-`function ColorXYYtoXYZ(x, y, Y)`
+`function ColorXYtoXYZ(x, y)`
 
 
 ### Parameters
 
 | Parameter | Description |
 | --- | --- |
-| num | Number representing x component of xyY |
-| num | Number representing y component of xyY |
-| num | Number representing Y component of xyY |
+| num | Number representing x component of xy |
+| num | Number representing y component of xy |
 
 
 ### Returns

@@ -1,4 +1,4 @@
-## ColorXYZtoRGB
+## ColorXYZtoHSV
 
 This function convert from XYZ color space to HSV.
 
