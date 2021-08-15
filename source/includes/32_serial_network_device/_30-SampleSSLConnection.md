@@ -6,7 +6,6 @@ To the right is a sample of a Driver's Connection XML. It shows the XML entries 
 ```xml
 <connection>
     <id>6001</id>
-    <facing>6</facing>
     <connectionname>Hopper Control Connection</connectionname>
     <type>4</type>
     <consumer>True</consumer>
