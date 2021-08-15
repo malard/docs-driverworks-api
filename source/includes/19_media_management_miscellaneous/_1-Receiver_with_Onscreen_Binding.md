@@ -8,7 +8,6 @@ To enable a receiver to be capable of being the onscreen device, add the followi
 ```lua
 <connection>
     <id>7500</id>
-    <facing>6</facing>
     <connectionname>OnscreenNavigator</connectionname>
     <type>7</type>
     <consumer>False</consumer>
